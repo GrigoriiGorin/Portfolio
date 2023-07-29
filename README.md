@@ -19,18 +19,24 @@ ___
 
 *Сделал:*
 + `Приемочные тест кейсы`
+[Тест кейсы](https://drive.google.com/file/d/17bMnbGCNp81pLEcQOkT4BuZY-pCFMBUv/view?usp=sharing)
 + `Тестирование требований`
 + `Декомпозицию`
 + `Функциональное и нефункциональное тестирование`
+[Тест кейсы](https://drive.google.com/file/d/17bMnbGCNp81pLEcQOkT4BuZY-pCFMBUv/view?usp=sharing)
 + `Smoke тестирование`
+[Смоук тест](https://drive.google.com/file/d/17bMnbGCNp81pLEcQOkT4BuZY-pCFMBUv/view?usp=sharing)
 + `Чек листы`
 
-[Курсовая](https://styke1997.atlassian.net/wiki/spaces/~639da90276fb74a9514349b0/pages/294913)
+[Чек лист 1](https://docs.google.com/spreadsheets/d/1iPYpOC1cE98VOfmwQGJPySvSty_AobL8/edit?usp=sharing&ouid=108137860855317128860&rtpof=true&sd=true)
 
-`Логин:` styke1997@mail.ru
+[Чек лист 2](https://docs.google.com/spreadsheets/d/1LClWA_ipSu32PVv6mYetTUQzFQ_ai9jx/edit?usp=sharing&ouid=108137860855317128860&rtpof=true&sd=true)
 
-`Пароль:` 37b0b242nmk86
+[Чек лист 3](https://docs.google.com/spreadsheets/d/11wipKNu9WJ9nhWa6k4PXnqivegksy5c2/edit?usp=sharing&ouid=108137860855317128860&rtpof=true&sd=true)
 
+[Чек лист 4](https://docs.google.com/spreadsheets/d/15K-l7x1IoqoLR1cxGMqjPPk7yYnO1x4t/edit?usp=sharing&ouid=108137860855317128860&rtpof=true&sd=true)
+
+[Курсовая](https://drive.google.com/file/d/1qUsz6lvOUV2rGo17uxo7MQ1AmS8wiLps/view?usp=sharing)
 
 **Вывод:** Багов не обнаружено.
 Можно выпускать весь продукт на портал. На основании параметров вышеперечисленных проверок.
@@ -48,14 +54,18 @@ ___
 
 *Сделал:*
 + `Тест кейсы для Postman`
+[Test case](https://drive.google.com/file/d/1-AMOx6sZkftQ-UhJ2stFtZhJ2oV5cwMH/view?usp=sharing)
 + `Тестирование API`
-+ `Чек листы для Postman`
++ `Чек листы для Postman` 
 
-[Курсовая](https://styke1997.atlassian.net/wiki/spaces/~639da90276fb74a9514349b0/pages/294913)
+[Чек лист 1](https://docs.google.com/spreadsheets/d/1oFabDkdYPeSMReb1zNu0NHs8f-K8OSzs/edit?usp=sharing&ouid=108137860855317128860&rtpof=true&sd=true)
 
-`Логин:` styke1997@mail.ru
+[Чек лист 2](https://docs.google.com/spreadsheets/d/11BH3dWR1-EcUbt0ShW-hQrDHNaoInyI2/edit?usp=sharing&ouid=108137860855317128860&rtpof=true&sd=true)
 
-`Пароль:` 37b0b242nmk86
+[Чек лист 3](https://docs.google.com/spreadsheets/d/1o2MWuZ07NFh9sUU9RgetI0TsurrCLhdR/edit?usp=sharing&ouid=108137860855317128860&rtpof=true&sd=true)
+
+[Курсовая](https://drive.google.com/file/d/1qUsz6lvOUV2rGo17uxo7MQ1AmS8wiLps/view?usp=sharing)
+
 
 **Вывод:** С помощью тестирования API ошибок не обнаружено. Все события отредактированы, созданы и удалены. Код ответ 200 OK. 
 
@@ -64,5 +74,6 @@ ___
 ## **Контактная информация**
 + *Email*: irabota86@gmail.com
 + [Telegram](https://web.telegram.org/k/)
-+ [VK](https://vk.com/audios373625772)
++ [VK](https://vk.com/idgrigoriygorin)
+
 
